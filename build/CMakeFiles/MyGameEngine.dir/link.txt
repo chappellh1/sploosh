@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyGameEngine.dir/src/main.cpp.o -o MyGameEngine   -L/home/jerrybob/sploosh/lib  -Wl,-rpath,/home/jerrybob/sploosh/lib -lglfw3 -ldl 

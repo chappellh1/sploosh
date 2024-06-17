@@ -1,0 +1,3 @@
+/home/jerrybob/sploosh/build/CMakeFiles/MyGameEngine.dir
+/home/jerrybob/sploosh/build/CMakeFiles/edit_cache.dir
+/home/jerrybob/sploosh/build/CMakeFiles/rebuild_cache.dir
